@@ -1,0 +1,5 @@
+{
+  "name": "SafeVoice AI",
+  "description": "Real-time AI-powered emergency voice trigger system that listens for distress patterns and initiates emergency actions.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
